@@ -54,7 +54,3 @@ class Player {
 } 
 
 
-
-//deswa
-
-
