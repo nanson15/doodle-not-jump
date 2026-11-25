@@ -51,6 +51,10 @@ class Player {
         fill(255, 0, 0);
         rect(this.x, this.y, 30);
     }
-}
+} 
+
+
+
+//deswa
 
 
